@@ -1,0 +1,3 @@
+在 php.in的文件中 
+去掉 “extension=/usr/local/php/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so ” 前的分号。 
+链接数据库使用的是：pdo

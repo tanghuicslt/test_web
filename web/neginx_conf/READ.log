@@ -1,0 +1,1 @@
+将cough.conf 的内容复制到nginx的conf文件夹下面的nginx.conf文本中的http里面
